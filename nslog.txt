@@ -1,0 +1,753 @@
+Script started on Mon 30 May 2016 02:50:36 PM PDT
+]0;chih@chih-VirtualBox: ~/workspace/ns-allinone-3.25/ns-3.25chih@chih-VirtualBox:~/workspace/ns-allinone-3.25/ns-3.25$ ./NetAnim cd netanim-3.107/..[K./waf --run "vanetClouud --traceFile=$HOME/workspace/sumoexample/data/nsmobility.tcl --nodeNum=324 --duuration=500 --logFile=$HOME/workspace/main-ns2-mob.log"
+[32mWaf: Entering directory `/home/chih/workspace/ns-allinone-3.25/ns-3.25/build'[0m
+[32mWaf: Leaving directory `/home/chih/workspace/ns-allinone-3.25/ns-3.25/build'[0m
+[32mBuild commands will be stored in build/compile_commands.json[0m
+[32m'build' finished successfully (4.066s)[0m
+14 has sent interest 10.
+14 fib size: 0 fiblsize 0
+14 has received data requested 10
+14 has sent interest 11.
+14 fib size: 0 fiblsize 0
+14 has received data requested 11
+14 has sent interest 12.
+14 fib size: 0 fiblsize 0
+14 has received data requested 12
+14 has sent interest 13.
+14 fib size: 0 fiblsize 0
+14 has sent interest 13.
+14 fib size: 0 fiblsize 0
+14 has received data requested 13
+14 has sent interest 14.
+14 fib size: 0 fiblsize 0
+14 has received data requested 14
+14 has sent interest 15.
+14 fib size: 0 fiblsize 0
+14 has sent interest 15.
+14 fib size: 0 fiblsize 0
+14 has sent interest 15.
+14 fib size: 0 fiblsize 0
+14 has sent interest 15.
+14 fib size: 0 fiblsize 0
+0 advertise 14
+0 advertise 13
+0 advertise 10
+2 advertise 11
+2 advertise 12
+2 advertise 13
+2 advertise 14
+2 advertise 15
+2 advertise 16
+2 advertise 17
+2 advertise 18
+2 advertise 19
+2 advertise 10
+4 advertise 14
+4 advertise 11
+4 advertise 10
+5 advertise 14
+5 advertise 10
+6 advertise 14
+6 advertise 11
+6 advertise 10
+9 advertise 14
+9 advertise 11
+9 advertise 10
+10 advertise 14
+10 advertise 10
+13 advertise 14
+13 advertise 12
+13 advertise 11
+13 advertise 10
+14 advertise 14
+14 advertise 13
+14 advertise 12
+14 advertise 11
+14 advertise 10
+17 advertise 14
+17 advertise 11
+17 advertise 10
+18 advertise 10
+21 advertise 14
+21 advertise 11
+21 advertise 10
+27 advertise 14
+27 advertise 10
+30 advertise 14
+30 advertise 10
+35 advertise 14
+35 advertise 10
+39 advertise 10
+43 advertise 10
+14 has sent interest 15.
+14 fib size: 0 fiblsize 0
+22 has sent interest 10.
+22 fib size: 5 5
+22 has received data requested 10
+14 has sent interest 15.
+14 fib size: 10 10
+14 has received data requested 15
+22 has sent interest 11.
+22 fib size: 5 5
+22 has received data requested 11
+14 has sent interest 16.
+14 fib size: 10 10
+22 has sent interest 12.
+22 fib size: 5 5
+22 has received data requested 12
+14 has sent interest 16.
+14 fib size: 10 10
+22 has sent interest 13.
+22 fib size: 5 5
+Max Packets per trace file exceeded
+204 advertise 10
+208 advertise 10
+212 advertise 10
+216 advertise 10
+220 advertise 10
+224 advertise 10
+229 advertise 10
+232 advertise 10
+237 advertise 10
+241 advertise 10
+242 advertise 10
+244 advertise 10
+251 advertise 10
+255 advertise 10
+259 advertise 10
+264 advertise 10
+267 advertise 10
+271 advertise 10
+277 advertise 10
+279 advertise 10
+283 advertise 10
+288 advertise 10
+290 advertise 10
+291 advertise 10
+297 advertise 10
+14 has sent interest 16.
+14 fib size: 10 10
+14 has received data requested 16
+22 has sent interest 13.
+22 fib size: 5 5
+22 has received data requested 13
+14 has sent interest 17.
+14 fib size: 10 10
+22 has sent interest 14.
+22 fib size: 5 5
+22 has received data requested 14
+302 advertise 10
+306 advertise 10
+310 advertise 10
+316 advertise 10
+319 advertise 10
+14 has sent interest 17.
+14 fib size: 10 10
+22 has sent interest 15.
+22 fib size: 5 fiblsize 5
+22 has received data requested 15
+14 has sent interest 17.
+14 fib size: 10 10
+22 has sent interest 16.
+22 fib size: 5 fiblsize 5
+22 has received data requested 16
+14 has sent interest 17.
+14 fib size: 10 10
+14 has received data requested 17
+22 has sent interest 17.
+22 fib size: 5 fiblsize 5
+22 has received data requested 17
+14 has sent interest 18.
+14 fib size: 10 10
+22 has sent interest 18.
+22 fib size: 5 fiblsize 5
+0 advertise 17
+0 advertise 16
+0 advertise 12
+0 advertise 11
+0 advertise 15
+0 advertise 14
+0 advertise 13
+0 advertise 10
+2 advertise 11
+2 advertise 12
+2 advertise 13
+2 advertise 14
+2 advertise 15
+2 advertise 16
+2 advertise 17
+2 advertise 18
+2 advertise 19
+2 advertise 10
+4 advertise 17
+4 advertise 13
+4 advertise 15
+4 advertise 12
+4 advertise 16
+4 advertise 14
+4 advertise 11
+4 advertise 10
+5 advertise 13
+5 advertise 16
+5 advertise 12
+5 advertise 11
+5 advertise 15
+5 advertise 14
+5 advertise 17
+5 advertise 10
+6 advertise 17
+6 advertise 13
+6 advertise 15
+6 advertise 12
+6 advertise 16
+6 advertise 14
+6 advertise 11
+6 advertise 10
+9 advertise 13
+9 advertise 15
+9 advertise 17
+9 advertise 12
+9 advertise 16
+9 advertise 14
+9 advertise 11
+9 advertise 10
+10 advertise 13
+10 advertise 16
+10 advertise 12
+10 advertise 11
+10 advertise 15
+10 advertise 14
+10 advertise 17
+10 advertise 10
+13 advertise 17
+13 advertise 13
+13 advertise 15
+13 advertise 16
+13 advertise 14
+13 advertise 12
+13 advertise 11
+13 advertise 10
+14 advertise 17
+14 advertise 16
+14 advertise 15
+14 advertise 14
+14 advertise 13
+14 advertise 12
+14 advertise 11
+14 advertise 10
+17 advertise 13
+17 advertise 17
+17 advertise 15
+17 advertise 12
+17 advertise 16
+17 advertise 14
+17 advertise 11
+17 advertise 10
+18 advertise 13
+18 advertise 16
+18 advertise 12
+18 advertise 11
+18 advertise 15
+18 advertise 14
+18 advertise 17
+18 advertise 10
+21 advertise 13
+21 advertise 15
+21 advertise 17
+21 advertise 12
+21 advertise 16
+21 advertise 14
+21 advertise 11
+21 advertise 10
+22 advertise 14
+22 advertise 17
+22 advertise 15
+22 advertise 13
+22 advertise 16
+22 advertise 12
+22 advertise 11
+22 advertise 10
+25 advertise 17
+25 advertise 16
+25 advertise 15
+25 advertise 13
+25 advertise 11
+25 advertise 12
+25 advertise 10
+25 advertise 14
+27 advertise 13
+27 advertise 17
+27 advertise 12
+27 advertise 15
+27 advertise 11
+27 advertise 16
+27 advertise 14
+27 advertise 10
+29 advertise 17
+29 advertise 13
+29 advertise 12
+29 advertise 16
+29 advertise 15
+29 advertise 11
+29 advertise 10
+29 advertise 14
+30 advertise 13
+30 advertise 15
+30 advertise 11
+30 advertise 16
+30 advertise 14
+30 advertise 10
+33 advertise 17
+33 advertise 13
+33 advertise 12
+33 advertise 16
+33 advertise 11
+33 advertise 10
+33 advertise 14
+35 advertise 11
+35 advertise 14
+35 advertise 10
+37 advertise 13
+37 advertise 12
+37 advertise 11
+37 advertise 10
+37 advertise 16
+37 advertise 14
+39 advertise 10
+41 advertise 13
+41 advertise 12
+41 advertise 16
+41 advertise 11
+41 advertise 10
+41 advertise 14
+43 advertise 10
+45 advertise 13
+45 advertise 16
+45 advertise 11
+45 advertise 14
+45 advertise 10
+49 advertise 11
+49 advertise 14
+49 advertise 10
+51 advertise 14
+51 advertise 10
+56 advertise 14
+56 advertise 10
+60 advertise 14
+60 advertise 10
+65 advertise 14
+65 advertise 10
+70 advertise 14
+70 advertise 10
+74 advertise 14
+74 advertise 10
+77 advertise 10
+82 advertise 10
+85 advertise 10
+91 advertise 10
+95 advertise 10
+14 has sent interest 18.
+14 fib size: 10 10
+27 has sent interest 10.
+27 fib size: 0 fiblsize 0
+27 has received data requested 10
+22 has sent interest 18.
+22 fib size: 8 fiblsize 8
+14 has sent interest 18.
+14 fib size: 10 10
+27 has sent interest 11.
+27 fib size: 8 8
+22 has sent interest 18.
+22 fib size: 8 fiblsize 8
+27 has received data requested 11
+101 advertise 10
+102 advertise 10
+107 advertise 10
+109 advertise 10
+113 advertise 10
+117 advertise 10
+121 advertise 10
+126 advertise 10
+130 advertise 10
+134 advertise 10
+137 advertise 10
+141 advertise 10
+145 advertise 10
+147 advertise 10
+154 advertise 10
+158 advertise 10
+162 advertise 10
+165 advertise 10
+170 advertise 10
+173 advertise 10
+177 advertise 10
+181 advertise 10
+185 advertise 10
+189 advertise 10
+193 advertise 10
+194 advertise 10
+197 advertise 10
+14 has sent interest 18.
+14 fib size: 10 10
+27 has sent interest 12.
+27 fib size: 8 8
+22 has sent interest 18.
+22 fib size: 8 fiblsize 8
+14 has sent interest 18.
+14 fib size: 10 10
+27 has sent interest 12.
+27 fib size: 8 8
+22 has sent interest 18.
+22 fib size: 8 fiblsize 8
+27 has received data requested 12
+204 advertise 10
+208 advertise 10
+212 advertise 10
+216 advertise 10
+220 advertise 10
+224 advertise 10
+229 advertise 10
+232 advertise 10
+237 advertise 10
+241 advertise 10
+242 advertise 10
+244 advertise 10
+251 advertise 10
+255 advertise 10
+259 advertise 10
+264 advertise 10
+267 advertise 10
+271 advertise 10
+277 advertise 10
+279 advertise 10
+283 advertise 10
+288 advertise 10
+290 advertise 10
+291 advertise 10
+297 advertise 10
+14 has sent interest 18.
+14 fib size: 10 10
+14 has received data requested 18
+22 has received data requested 18
+27 has sent interest 13.
+27 fib size: 8 8
+22 has sent interest 19.
+22 fib size: 8 fiblsize 8
+27 has received data requested 13
+14 has sent interest 19.
+14 fib size: 10 10
+27 has sent interest 14.
+27 fib size: 8 8
+22 has sent interest 19.
+22 fib size: 8 fiblsize 8
+302 advertise 10
+306 advertise 10
+310 advertise 10
+316 advertise 10
+319 advertise 10
+14 has sent interest 19.
+14 fib size: 10 10
+27 has sent interest 14.
+27 fib size: 8 8
+27 has received data requested 14
+22 has sent interest 19.
+22 fib size: 8 fiblsize 8
+14 has sent interest 19.
+14 fib size: 10 10
+27 has sent interest 15.
+27 fib size: 8 8
+27 has received data requested 15
+22 has sent interest 19.
+22 fib size: 8 fiblsize 8
+14 has sent interest 19.
+14 fib size: 10 10
+14 has received data requested 19
+22 has received data requested 19
+27 has sent interest 16.
+27 fib size: 8 8
+27 has received data requested 16
+27 has sent interest 17.
+27 fib size: 8 8
+27 has received data requested 17
+0 advertise 19
+0 advertise 18
+0 advertise 17
+0 advertise 16
+0 advertise 12
+0 advertise 11
+0 advertise 15
+0 advertise 14
+0 advertise 13
+0 advertise 10
+2 advertise 11
+2 advertise 12
+2 advertise 13
+2 advertise 14
+2 advertise 15
+2 advertise 16
+2 advertise 17
+2 advertise 18
+2 advertise 19
+2 advertise 10
+4 advertise 19
+4 advertise 18
+4 advertise 17
+4 advertise 13
+4 advertise 15
+4 advertise 12
+4 advertise 16
+4 advertise 14
+4 advertise 11
+4 advertise 10
+5 advertise 19
+5 advertise 18
+5 advertise 13
+5 advertise 16
+5 advertise 12
+5 advertise 11
+5 advertise 15
+5 advertise 14
+5 advertise 17
+5 advertise 10
+6 advertise 19
+6 advertise 18
+6 advertise 17
+6 advertise 13
+6 advertise 15
+6 advertise 12
+6 advertise 16
+6 advertise 14
+6 advertise 11
+6 advertise 10
+9 advertise 19
+9 advertise 18
+9 advertise 13
+9 advertise 15
+9 advertise 17
+9 advertise 12
+9 advertise 16
+9 advertise 14
+9 advertise 11
+9 advertise 10
+10 advertise 19
+10 advertise 18
+10 advertise 13
+10 advertise 16
+10 advertise 12
+10 advertise 11
+10 advertise 15
+10 advertise 14
+10 advertise 17
+10 advertise 10
+13 advertise 19
+13 advertise 18
+13 advertise 17
+13 advertise 13
+13 advertise 15
+13 advertise 16
+13 advertise 14
+13 advertise 12
+13 advertise 11
+13 advertise 10
+14 advertise 19
+14 advertise 18
+14 advertise 17
+14 advertise 16
+14 advertise 15
+14 advertise 14
+14 advertise 13
+14 advertise 12
+14 advertise 11
+14 advertise 10
+17 advertise 19
+17 advertise 18
+17 advertise 13
+17 advertise 17
+17 advertise 15
+17 advertise 12
+17 advertise 16
+17 advertise 14
+17 advertise 11
+17 advertise 10
+18 advertise 19
+18 advertise 13
+18 advertise 16
+18 advertise 12
+18 advertise 11
+18 advertise 15
+18 advertise 14
+18 advertise 18
+18 advertise 17
+18 advertise 10
+21 advertise 19
+21 advertise 18
+21 advertise 13
+21 advertise 15
+21 advertise 17
+21 advertise 12
+21 advertise 16
+21 advertise 14
+21 advertise 11
+21 advertise 10
+22 advertise 19
+22 advertise 14
+22 advertise 18
+22 advertise 17
+22 advertise 15
+22 advertise 13
+22 advertise 16
+22 advertise 12
+22 advertise 11
+22 advertise 10
+25 advertise 19
+25 advertise 14
+25 advertise 18
+25 advertise 17
+25 advertise 16
+25 advertise 15
+25 advertise 13
+25 advertise 11
+25 advertise 12
+25 advertise 10
+27 advertise 19
+27 advertise 18
+27 advertise 13
+27 advertise 17
+27 advertise 12
+27 advertise 15
+27 advertise 11
+27 advertise 16
+27 advertise 14
+27 advertise 10
+29 advertise 18
+29 advertise 17
+29 advertise 13
+29 advertise 12
+29 advertise 16
+29 advertise 15
+29 advertise 11
+29 advertise 10
+29 advertise 19
+29 advertise 14
+30 advertise 19
+30 advertise 12
+30 advertise 18
+30 advertise 13
+30 advertise 15
+30 advertise 11
+30 advertise 16
+30 advertise 17
+30 advertise 14
+30 advertise 10
+33 advertise 18
+33 advertise 17
+33 advertise 13
+33 advertise 12
+33 advertise 16
+33 advertise 11
+33 advertise 10
+33 advertise 19
+33 advertise 14
+35 advertise 18
+35 advertise 15
+35 advertise 13
+35 advertise 16
+35 advertise 11
+35 advertise 14
+35 advertise 10
+37 advertise 18
+37 advertise 17
+37 advertise 13
+37 advertise 12
+37 advertise 11
+37 advertise 10
+37 advertise 16
+37 advertise 14
+39 advertise 18
+39 advertise 13
+39 advertise 15
+39 advertise 11
+39 advertise 16
+39 advertise 10
+41 advertise 13
+41 advertise 12
+41 advertise 16
+41 advertise 11
+41 advertise 10
+41 advertise 17
+41 advertise 14
+43 advertise 18
+43 advertise 15
+43 advertise 13
+43 advertise 11
+43 advertise 16
+43 advertise 10
+45 advertise 10
+45 advertise 17
+45 advertise 13
+45 advertise 16
+45 advertise 11
+45 advertise 14
+49 advertise 17
+49 advertise 11
+49 advertise 14
+49 advertise 10
+51 advertise 14
+51 advertise 10
+56 advertise 10
+56 advertise 14
+60 advertise 14
+60 advertise 10
+65 advertise 14
+65 advertise 10
+70 advertise 14
+70 advertise 10
+74 advertise 14
+74 advertise 10
+77 advertise 14
+77 advertise 10
+82 advertise 14
+82 advertise 10
+85 advertise 14
+85 advertise 10
+91 advertise 14
+91 advertise 10
+95 advertise 14
+95 advertise 10
+27 has sent interest 18.
+27 fib size: 10 10
+27 has received data requested 18
+27 has sent interest 19.
+27 fib size: 10 10
+27 has received data requested 19
+101 advertise 10
+102 advertise 10
+107 advertise 10
+109 advertise 10
+113 advertise 10
+117 advertise 10
+121 advertise 10
+126 advertise 10
+130 advertise 10
+134 advertise 10
+137 advertise 10
+141 advertise 10
+145 advertise 10
+147 advertise 10
+154 advertise 10
+158 advertise 10
+162 advertise 10
+165 advertise 10
+170 advertise 10
+173 advertise 10
+177 advertise 10
+181 advertise 10
+185 advertise 10
+189 advertise 10
+193 advertise 10
+194 advertise 10
+197 advertise 10
+27 has received every piece Stop now
+]0;chih@chih-VirtualBox: ~/workspace/ns-allinone-3.25/ns-3.25chih@chih-VirtualBox:~/workspace/ns-allinone-3.25/ns-3.25$ exit
+
+Script done on Mon 30 May 2016 03:08:37 PM PDT
